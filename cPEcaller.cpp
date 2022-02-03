@@ -1,3 +1,21 @@
+/**
+ * @file cPEcaller.cpp
+ * @author Charles Hartsell (ckharts@clemson.edu)
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-03
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ * This file is a companion file for calculatePostfixExpression.cpp
+ * It exists solely to setup and run that function.
+ * Please compile with:
+ *  g++ cPEcaller.cpp calculatePostfixExpression.cpp -o postfixCalc
+ * And run with:
+ *  ./postfixCalc
+ * Thank you!
+ */
+
 #include <iostream>
 #include <string>
 
